@@ -31,8 +31,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 ```
 #To find the Fitting Poisson  distribution
-NAME:YENUGANTI PRIYADHARSHINI.P
-REF NO: 212223240128
+NAME:AJAYPRABU. A
+REF NO: 212225220005
 import numpy as np
 import math
 import scipy.stats
